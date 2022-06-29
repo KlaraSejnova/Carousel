@@ -1,13 +1,12 @@
 * {
     box-sizing: border-box;
-    padding: 20px;
+    padding: 20px;    
+    font-family: Roboto,sans-serif;
 }
 .hero {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    /* text-align: center; */
-    font-family: Roboto,sans-serif;
     }
 .text {
     flex: 40%;
