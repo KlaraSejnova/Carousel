@@ -8,8 +8,7 @@ slide = (direction) => {
     translate < -2440 ? translate = 0 : translate = translate;
         images.forEach(
         images => (images.style.transform = `translateX(${translate}px)`)
-        );
-        
+        );        
     }
 
 
